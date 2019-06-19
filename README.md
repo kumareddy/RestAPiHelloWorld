@@ -22,3 +22,12 @@ Access ```http://localhost:8080/spring3```
 3. Done.
 
 
+Dockerfile
+----------
+To run the application in Container ,so installed java,git and maven
+
+Jenkins
+---------
+*Checkout the code and build the code 
+
+
