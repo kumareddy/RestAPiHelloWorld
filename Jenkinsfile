@@ -19,6 +19,9 @@ pipeline{
    mvn clean package
   echo "buiild
     }
+        stage("deploy"){
+             
+        }
      
    
 }
